@@ -34,7 +34,7 @@
   Recently, I concluded a Master's Degree in Computer Engineering where I specialized in the study, development and utilization of ML/AI for image generation and medical applications.<br>
 I am currently following a carrer path focused on mobile development where I can apply my knowledge and continue learning. <br>
 
-  Read more about my experience <a href="https://jccb15.github.io/jccb15/" target="_blank">here</a>.
+  Read more about my professional experience in my <a href="https://jccb15.github.io/jccb15/" target="_blank">resume</a>.
   
 
 ###
