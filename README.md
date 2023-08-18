@@ -30,9 +30,9 @@
 ###
 
 <p align="left">
-  I'm a Software Developer currently based at Busan, South Korea. <br>
+  I'm a Software Developer currently based at Seoul, South Korea. <br>
   Recently, I concluded a Master's Degree in Computer Engineering where I specialized in the study, development and utilization of ML/AI for image generation and medical applications.<br>
-I am currently following a carrer path focused on mobile development where I can apply my knowledge and continue learning. <br>
+Interested in mobile development and AI projects to apply my knowledge and continue learning. <br>
 
   Read more about my professional experience in my <a href="https://jccb15.github.io/jccb15/" target="_blank">resume</a>.
   
@@ -44,13 +44,13 @@ I am currently following a carrer path focused on mobile development where I can
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="38" alt="dart logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="flutter logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" alt="pytorch logo"  />
+  <img width="14" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="38" alt="dart logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="flutter logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="tensorflow logo"  />
   <img width="14" />
