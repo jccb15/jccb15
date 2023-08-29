@@ -85,6 +85,7 @@ Interested in mobile development and AI projects to apply my knowledge and conti
 
 ###
 
+### 👇 Lastly, check out some of my projects 👇 ###
 <!---
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jccb15&theme=dark&hide_border=false)<br/>
