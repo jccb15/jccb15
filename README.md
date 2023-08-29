@@ -30,9 +30,10 @@
 ###
 
 <p align="left">
-  I'm a Software Developer currently based at Seoul, South Korea. <br>
-  Recently, I concluded a Master's Degree in Computer Engineering where I specialized in the study, development and utilization of ML/AI for image generation and medical applications.<br>
-Interested in mobile development and AI projects to apply my knowledge and continue learning. <br>
+  Software Developer currently based at Seoul, South Korea. 
+  <br>
+  
+  Interested in mobile development and Artificial Intelligence. <br>
 
   Read more about my professional experience in my <a href="https://jccb15.github.io/jccb15/" target="_blank">resume</a>.
   
@@ -51,6 +52,8 @@ Interested in mobile development and AI projects to apply my knowledge and conti
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="38" alt="dart logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="flutter logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="38" alt="java logo" />        
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="tensorflow logo"  />
   <img width="14" />
@@ -79,13 +82,8 @@ Interested in mobile development and AI projects to apply my knowledge and conti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="38" alt="latex logo"  />
 </div>
 
-###
 
-
-
-###
-
-### 👇 Lastly, check out some of my projects 👇 ###
+### 👇 Check out some of my projects 👇 
 <!---
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jccb15&theme=dark&hide_border=false)<br/>
