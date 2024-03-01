@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hello everyone! 👋</h1>
+<h1 align="center">Hello everyone! I'm José 👋</h1>
 
 ###
 
