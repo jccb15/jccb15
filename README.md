@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="150" src="jccb_header.png"  />
-</div>
-
-###
+##
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jccb15/" target="_blank">
